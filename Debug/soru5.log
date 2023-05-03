@@ -1,0 +1,7 @@
+﻿  Kaynak.cpp
+C:\Users\yasin\source\repos\soru5\Kaynak.cpp(10,53): error C2440: 'başlatılıyor': 'void *' - 'Node *' dönüşümü yapılamıyor
+C:\Users\yasin\source\repos\soru5\Kaynak.cpp(10,24): message : 'void*' değerinden 'void' olmayan işaretçisine dönüştürme açık bir tür dönüştürme gerektiriyor
+C:\Users\yasin\source\repos\soru5\Kaynak.cpp(17,49): error C2440: '=': 'void *' - 'Node *' dönüşümü yapılamıyor
+C:\Users\yasin\source\repos\soru5\Kaynak.cpp(17,28): message : 'void*' değerinden 'void' olmayan işaretçisine dönüştürme açık bir tür dönüştürme gerektiriyor
+  soru5.cpp
+  Kod Üretiliyor...
